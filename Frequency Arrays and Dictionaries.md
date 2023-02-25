@@ -1,4 +1,4 @@
-# Problems on Dictionaries
+# Problems on Freq_Arrays and Dictionaries
 
 <details>
     <summary> <b> Codechef </b> </summary>
