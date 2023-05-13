@@ -46,8 +46,6 @@
 - [Detect Loop](https://practice.geeksforgeeks.org/problems/detect-loop-in-linked-list/1?page=1&category[]=Linked%20List&sortBy=submissions)
 - [Linked List Palindrome](https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1?page=1&category[]=Linked%20List&sortBy=submissions)
 - [Remove duplicates from a sorted linked list](https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1?page=1&category[]=Linked%20List&sortBy=submissions)
-- [Intersection of Two Linked Lists](https://practice.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1?page=2&category[]=Linked%20List&sortBy=submissions)
-- [Polynomial Addition](https://practice.geeksforgeeks.org/problems/polynomial-addition/1?page=4&category[]=Linked%20List&sortBy=submissions)
 
 </details>
 
